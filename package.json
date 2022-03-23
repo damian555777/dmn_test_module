@@ -3,5 +3,15 @@
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "damian555777/dmn_test_module",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "damian555777"
+  ]
 }
